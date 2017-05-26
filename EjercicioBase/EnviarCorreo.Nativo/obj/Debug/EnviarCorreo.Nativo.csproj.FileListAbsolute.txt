@@ -1,0 +1,93 @@
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.dll.config
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.dll
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.pdb
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.EnviarCorreo.Nativo.apk
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.EnviarCorreo.Nativo-Signed.apk
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\EnviarCorreo.Nativo.dll
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\EnviarCorreo.Nativo.pdb
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\android\bin\EnviarCorreo.Nativo.EnviarCorreo.Nativo.apk
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\res\layout\main.xml
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\res\values\strings.xml
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\res\drawable\icon.png
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\R.cs.flag
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\uploadflags.txt
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\EnviarCorreo.Nativo.csprojResolveAssemblyReference.cache
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.dll.mdb
+C:\Users\Fernanda\Downloads\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\android\assets\EnviarCorreo.Nativo.dll.mdb
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\EnviarCorreo.Nativo.csprojResolveAssemblyReference.cache
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\EnviarCorreo.Nativo.dll
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\EnviarCorreo.Nativo.pdb
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.dll.config
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.dll
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.pdb
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.EnviarCorreo.Nativo.apk
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.EnviarCorreo.Nativo-Signed.apk
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\android\bin\EnviarCorreo.Nativo.EnviarCorreo.Nativo.apk
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\res\layout\main.xml
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\res\values\strings.xml
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\res\drawable\icon.png
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\R.cs.flag
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\uploadflags.txt
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.dll.mdb
+C:\Users\Yosimar\Documents\Visual Studio 2015\Backup Files\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\android\assets\EnviarCorreo.Nativo.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.dll.config
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.EnviarCorreo.Nativo.apk
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.EnviarCorreo.Nativo-Signed.apk
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\EnviarCorreo.Nativo.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\EnviarCorreo.Nativo.dll
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\EnviarCorreo.Nativo.pdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\android\bin\EnviarCorreo.Nativo.EnviarCorreo.Nativo.apk
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\res\layout\main.xml
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\res\values\strings.xml
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\res\drawable\icon.png
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\R.cs.flag
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\uploadflags.txt
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\android\assets\EnviarCorreo.Nativo.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\mscorlib.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Core.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Xml.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\obj\Debug\EnviarCorreo.Nativo.dll.mdb
+C:\Users\Alumno\Desktop\Nueva carpeta\Nueva carpeta\EnviaCorreosXamarinApp-master\EjercicioBase\EnviarCorreo.Nativo\bin\Debug\EnviarCorreo.Nativo.dll.mdb
